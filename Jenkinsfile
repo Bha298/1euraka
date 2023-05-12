@@ -10,7 +10,7 @@ pipeline{
 
                 script{
 
-                   git branch: 'main', url: 'https://github.com/Bha298/eurikaser1.git'
+                   git branch: 'main', url: 'https://github.com/Bha298/1euraka.git'
                 }
             }
         }
